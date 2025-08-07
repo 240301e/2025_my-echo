@@ -8,4 +8,4 @@ COPY _output/2025_my-echo /2025_my-echo
 
 EXPOSE 1323
 
-ENTRYPOINT ["/my-echo"]
+ENTRYPOINT ["/2025_my-echo"]
